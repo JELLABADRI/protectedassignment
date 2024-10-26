@@ -1,0 +1,18 @@
+.maincon {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  height: 100vh;
+  padding: 15px;
+
+  background-color: aquamarine;
+}
+.row {
+  padding: 15px;
+  display: flex;;
+  justify-content: space-around;
+  align-items: center;
+}
+.cen {
+  text-align: center;
+}
